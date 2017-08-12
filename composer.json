@@ -1,0 +1,16 @@
+{
+    "description": "Mikrotik API project",
+    "name": "icyland/mikrotik",
+    "type": "project",
+    "homepage": "https://qooblog.com",
+    "license": "MIT",
+    "require": {
+                "php": ">=5.3.0",
+                "monolog/monolog": "*",
+                "pear2/net_routeros": ">=1.0.0b6",
+                "pear2/net_transmitter": ">=1.0.0b1",
+                "pear2/cache_shm": "*@alpha",
+                "pear2/console_commandline": "*@alpha",
+                "pear2/console_color": "*"
+        }
+}
