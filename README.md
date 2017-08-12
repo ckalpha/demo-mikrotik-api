@@ -13,3 +13,7 @@ $client = new RouterOS\Client('192.168.88.1', 'admin', 'password');
 ```
 
 ## Enjoy your code.
+
+```
+php script-mikrotik.php
+```
